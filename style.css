@@ -141,3 +141,11 @@ color: #2e2f42;
 .footer {
     background-color: #2e2f42;
 }
+.paragraph-footer {
+    line-height: 1.50;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
+.span-footer {
+    color: #f4f4fd;
+}
