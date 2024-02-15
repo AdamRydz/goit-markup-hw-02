@@ -40,16 +40,22 @@ body {
 .contact:active {
   color: #404bbf;
 }
-.section-one {
+.div {
   background-color: #2e2f42;
 }
-.section-one-headline {
+.div-headline {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
+}
+.button:hover {
+  color: #404bbf;
+}
+.button:active {
+  color: #404bbf;
 }
 .button {
   font-family: 'Roboto', sans-serif;
@@ -61,9 +67,70 @@ body {
   cursor: pointer;
   background-color: #4d5ae5;
 }
-.button:hover {
-  color: #404bbf;
+.section-one-headline {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.button:active {
-  color: #404bbf;
+.paragraph-section-one {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.section-two {
+  background-color: #f4f4fd;
+}
+.section-two-our-team {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
+}
+.section-two-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.paragraph-section-two {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+.section-three {
+    background-color: :#f4f4fd;
+}
+.section-three-headline{
+    font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2e2f42;
+}
+.section-three-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+  .paragraph-section-three {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
 }
