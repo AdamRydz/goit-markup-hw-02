@@ -22,7 +22,7 @@ body {
   color: #2e2f42;
 }
 .menu-link {
-    color:#2e2f42;
+  color: #2e2f42;
 }
 .menu-link:hover {
   color: #404bbf;
@@ -31,7 +31,7 @@ body {
   color: #404bbf;
 }
 .address {
-    font-style: normal;
+  font-style: normal;
 }
 .contact {
   font-style: normal;
@@ -104,8 +104,8 @@ body {
   text-align: center;
   color: #2e2f42;
 }
-.list{
-    background-color: #ffffff;
+.list {
+  background-color: #ffffff;
 }
 .paragraph-section-two {
   font-weight: 400;
@@ -116,16 +116,16 @@ body {
   color: #434455;
 }
 .section-three {
-    background-color: :#f4f4fd;
+  background-color: #f4f4fd;
 }
-.section-three-headline{
-    font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-text-align: center;
-color: #2e2f42;
+.section-three-headline {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
 }
 .section-three-list {
   font-weight: 500;
@@ -135,7 +135,7 @@ color: #2e2f42;
   text-align: center;
   color: #2e2f42;
 }
-  .paragraph-section-three {
+.paragraph-section-three {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -145,13 +145,13 @@ color: #2e2f42;
 }
 
 .footer {
-    background-color: #2e2f42;
+  background-color: #2e2f42;
 }
 .paragraph-footer {
-    line-height: 1.50;
-    color: #f4f4fd;
-    letter-spacing: 0.02em;
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
 .span-footer {
-    color: #f4f4fd;
+  color: #f4f4fd;
 }
