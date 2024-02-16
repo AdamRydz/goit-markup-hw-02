@@ -57,12 +57,6 @@ body {
   text-align: center;
   color: #ffffff;
 }
-.button:hover {
-  color: #404bbf;
-}
-.button:focus {
-  color: #404bbf;
-}
 .button {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -72,6 +66,12 @@ body {
   color: #ffffff;
   cursor: pointer;
   background-color: #4d5ae5;
+}
+.button:hover {
+  color: #404bbf;
+}
+.button:focus {
+  color: #404bbf;
 }
 .section-one-headline {
   font-weight: 500;
