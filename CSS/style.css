@@ -27,7 +27,7 @@ body {
 .menu-link:hover {
   color: #404bbf;
 }
-.menu-link:active {
+.menu-link:focus {
   color: #404bbf;
 }
 .address {
@@ -43,7 +43,7 @@ body {
 .contact:hover {
   color: #404bbf;
 }
-.contact:active {
+.contact:focus {
   color: #404bbf;
 }
 .section {
@@ -60,7 +60,7 @@ body {
 .button:hover {
   color: #404bbf;
 }
-.button:active {
+.button:focus {
   color: #404bbf;
 }
 .button {
