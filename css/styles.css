@@ -68,10 +68,10 @@ body {
   background-color: #4d5ae5;
 }
 .button:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .section-one-headline {
   font-weight: 500;
